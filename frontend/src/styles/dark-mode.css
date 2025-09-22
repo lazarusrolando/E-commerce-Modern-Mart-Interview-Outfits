@@ -1,0 +1,51 @@
+/* Dark mode styles when 'dark' class is applied to html */
+html.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+html.dark .glass-effect {
+  background: rgba(0, 0, 0, 0.2);
+  border-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+html.dark .glass-effect-dark {
+  background: rgba(0, 0, 0, 0.3);
+  border-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+html.dark .enhanced-card {
+  background: rgba(0, 0, 0, 0.1);
+  border-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+html.dark .enhanced-card:hover {
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.4);
+  border-color: rgba(102, 126, 234, 0.3);
+}
+
+html.dark .skeleton-loading {
+  background: linear-gradient(
+    90deg,
+    rgba(64, 64, 64, 0.8) 0%,
+    rgba(96, 96, 96, 0.9) 50%,
+    rgba(64, 64, 64, 0.8) 100%
+  );
+}
+
+html.dark ::-webkit-scrollbar-track {
+  background: rgba(64, 64, 64, 0.8);
+}
+
+html.dark .border-gradient {
+  background: linear-gradient(#1a202c, #1a202c) padding-box,
+              linear-gradient(135deg, #667eea 0%, #764ba2 100%) border-box;
+}
+
+html.dark .border-gradient:hover {
+  background: linear-gradient(#1a202c, #1a202c) padding-box,
+              linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%) border-box;
+}

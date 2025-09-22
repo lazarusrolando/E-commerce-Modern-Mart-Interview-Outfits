@@ -1,0 +1,322 @@
+[
+    {
+      "id": 1,
+      "name": "Falcon Stylish Cotton Shirts for Men",
+      "price": 999.00,
+      "original_price": 1299.00,
+      "discount": 22,
+      "images": "/api/images/men-shirts/product1.png"
+    },
+    {
+        "id": 2,
+        "name": "AIA Fab Men Solid Casual Light Green Shirt",
+        "original_price": 1399.00,
+        "price": 1199.00,
+        "discount": 33,
+        "images": "/api/images/men-shirts/product2.png"
+    },
+    {
+        "id": 3,
+        "name": "Snitch Men Self Design Casual Grey Shirt",
+        "original_price": 1599.00,
+        "price": 1299.00,
+        "discount": 90,
+        "images": "/api/images/men-shirts/product3.png"
+    },
+    {
+        "id": 4,
+        "name": "Blive Men Solid Formal White Shirt",
+        "original_price": 1499.00,
+        "price": 1100.00,
+        "discount": 40,
+        "images": "/api/images/men-shirts/product4.png"
+    },
+    {
+        "id": 5,
+        "name": "Vastrakaalam Black Formal Pant for Men",
+        "original_price": 1799.00,
+        "price": 1599.00,
+        "discount": 40,
+        "images": "/api/images/men-pants/product5.png"
+    },
+    {
+        "id": 6,
+        "name": "Ragzo Baggy Formal Pant for Men",
+        "original_price": 1999.00,
+        "price": 1299.00,
+        "discount": 10,
+        "images": "/api/images/men-pants/product6.png"
+    },
+    {
+        "id": 7,
+        "name": "Vimla Regular Fit Men Black Formal Pant",
+        "original_price": 1899.00,
+        "price": 1399.00,
+        "discount": 10,
+        "images": "/api/images/men-pants/product7.png"
+    },
+    {
+        "id": 8,
+        "name": "McHenry Men's Regular Fit Formal Pant",
+        "original_price": 1999.00,
+        "price": 1699.00,
+        "discount": 10,
+        "images": "/api/images/men-pants/product8.png"
+    },
+    {
+        "id": 9,
+        "name": "Casio Analog Blue Dial Silver Stainless Steel Watch",
+        "original_price": 3299.00,
+        "price": 2699.00,
+        "discount": 10,
+        "images": "/api/images/watches/product9.png"
+    },
+    {
+        "id": 10,
+        "name": "Titan Blue Dial Analog Watch For Men",
+        "original_price": 4299.00,
+        "price": 3799.00,
+        "discount": 10,
+        "images": "/api/images/watches/product10.png"
+    },
+    {
+        "id": 11,
+        "name": "Fastrack White Dial Analog Watch For Men",
+        "original_price": 2499.00,
+        "price": 1699.00,
+        "discount": 10,
+        "images": "/api/images/watches/product11.png"
+    },
+    {
+        "id": 12,
+        "name": "Matrix Antique Softest Silicone Strap Analog Watch for Men",
+        "original_price": 3599.00,
+        "price": 2999.00,
+        "discount": 10,
+        "images": "/api/images/watches/product12.png"
+    },
+    {
+        "id": 13,
+        "name": "Jaden Backpack with USB Charging Port for Men",
+        "original_price": 2499.00,
+        "price": 2999.00,
+        "discount": 10,
+        "images": "/api/images/bags/product13.png"
+    },
+    {
+        "id": 14,
+        "name": "Safari Omega Pro 35L Laptop Backpack",
+        "original_price": 2999.00,
+        "price": 1999.00,
+        "discount": 10,
+        "images": "/api/images/bags/product14.png"
+    },
+    {
+        "id": 15,
+        "name": "Mokobara Men & Women Blue Bag",
+        "original_price": 3499.00,
+        "price": 2999.00,
+        "discount": 10,
+        "images": "/api/images/bags/product15.png"
+    },
+    {
+        "id": 16,
+        "name": "uppercase Omega 02 Professional Laptop Office Bag",
+        "original_price": 4499.00,
+        "price": 2999.00,
+        "discount": 10,
+        "images": "/api/images/bags/product16.png"
+    },
+    {
+        "id": 17,
+        "name": "Jockey 7035 Crew Length Socks",
+        "original_price": 499.00,
+        "price": 299.00,
+        "discount": 10,
+        "images": "/api/images/socks/product17.png"
+    },
+    {
+        "id": 18,
+        "name": "Peter England Men Solid Mid-Calf",
+        "original_price": 599.00,
+        "price": 399.00,
+        "discount": 10,
+        "images": "/api/images/socks/product18.png"
+    },
+    {
+        "id": 19,
+        "name": "Pack of 3 Mid-Calf Length Socks",
+        "original_price": 699.00,
+        "price": 499.00,
+        "discount": 10,
+        "images": "/api/images/socks/product19.png"
+    },
+    {
+        "id": 20,
+        "name": "NAVYSPOT Men Pack of 3 Assorted Patterned",
+        "original_price": 999.00,
+        "price": 899.00,
+        "discount": 10,
+        "images": "/api/images/socks/product20.png"
+    },
+    {
+        "id": 21,
+        "name": "Bata Mens Barlow LACE E Brown Formal UK",
+        "original_price": 4999.00,
+        "price": 4499.00,
+        "discount": 10,
+        "images": "/api/images/men-shoes/product21.png"
+    },
+    {
+        "id": 22,
+        "name": "Fausto Formal Shoes for Men",
+        "original_price": 4999.00,
+        "price": 4499.00,
+        "discount": 10,
+        "images": "/api/images/men-shoes/product22.png"
+    },
+    {
+        "id": 23,
+        "name": "Centrino Men's Formal Shoe",
+        "original_price": 3999.00,
+        "price": 3599.00,
+        "discount": 10,
+        "images": "/api/images/men-shoes/product23.png"
+    },
+    {
+        "id": 24,
+        "name": "Hush Puppies Men's Boston Slipon Formal Shoe",
+        "original_price": 2999.00,
+        "price": 1799.00,
+        "discount": 10,
+        "images": "/api/images/men-shoes/product24.png"
+    },
+    {
+        "id": 25,
+        "name": "Peluche Fabulous Dark Green and Black Microfiber Tie",
+        "original_price": 699.00,
+        "price": 499.00,
+        "discount": 10,
+        "images": "/api/images/ties/product25.png"
+    },
+    {
+        "id": 26,
+        "name": "Axlon Navy Dotted Tie Set for Men",
+        "original_price": 799.00,
+        "price": 599.00,
+        "discount": 10,
+        "images": "/api/images/ties/product26.png"
+    },
+    {
+        "id": 27,
+        "name": "Neuroclub Self Design Tie",
+        "original_price": 599.00,
+        "price": 499.00,
+        "discount": 10,
+        "images": "/api/images/ties/product27.png"
+    },
+    {
+        "id": 28,
+        "name": "Nines Red Polyster Men's Tie, Pocket Square",
+        "original_price": 899.00,
+        "price": 549.00,
+        "discount": 10,
+        "images": "/api/images/ties/product28.png"
+    },
+    {
+        "id": 29,
+        "name": "Sayona Women Solid Formal Grey Shirt",
+        "original_price": 1299.00,
+        "price": 999.00,
+        "discount": 10,
+        "images": "/api/images/women-shirts/product29.png"
+    },
+    {
+        "id": 30,
+        "name": "Guvvi Women Solid Formal Pink Shirt",
+        "original_price": 999.00,
+        "price": 799.00,
+        "discount": 10,
+        "images": "/api/images/women-shirts/product30.png"
+    },
+    {
+        "id": 31,
+        "name": "Formal Regular Sleeves Women Top",
+        "original_price": 999.00,
+        "price": 799.00,
+        "discount": 10,
+        "images": "/api/images/women-shirts/product31.png"
+    },
+    {
+        "id": 32,
+        "name": "Metronaut Women Solid Formal Black Shirt",
+        "original_price": 1399.00,
+        "price": 1199.00,
+        "discount": 10,
+        "images": "/api/images/women-shirts/product32.png"
+    },
+    {
+        "id": 33,
+        "name": "Kotty Regular Fit Dark Green Formal Pant",
+        "original_price": 1499.00,
+        "price": 1299.00,
+        "discount": 10,
+        "images": "/api/images/women-pants/product33.png"
+    },
+    {
+        "id": 34,
+        "name": "Polyster Women Blend Formal Pant",
+        "original_price": 1599.00,
+        "price": 1299.00,
+        "discount": 10,
+        "images": "/api/images/women-pants/product34.png"
+    },
+    {
+        "id": 35,
+        "name": "suhu Regular Fit Women Black Formal Pant",
+        "original_price": 1499.00,
+        "price": 1199.00,
+        "discount": 10,
+        "images": "/api/images/women-pants/product35.png"
+    },
+    {
+        "id": 36,
+        "name": "Sabaira Regular Fit Women Red Formal Pant",
+        "original_price": 1699.00,
+        "price": 1299.00,
+        "discount": 10,
+        "images": "/api/images/women-pants/product36.png"
+    },
+    {
+        "id": 37,
+        "name": "Fausto Women Formal Wedge Heel Slip",
+        "original_price": 899.00,
+        "price": 699.00,
+        "discount": 10,
+        "images": "/api/images/women-shoes/product37.png"
+    },
+    {
+        "id": 38,
+        "name": "Marc Loire Women Black Solid Pumps",
+        "original_price": 996.00,
+        "price": 699.00,
+        "discount": 10,
+        "images": "/api/images/women-shoes/product38.png"
+    },
+    {
+        "id": 39,
+        "name": "Fausto Fashion Formal Office Heel Wedges",
+        "original_price": 810.00,
+        "price": 699.00,
+        "discount": 10,
+        "images": "/api/images/women-shoes/product39.png"
+    },
+    {
+        "id": 40,
+        "name": "XE LOOKS Work Wedge Pumps Formal",
+        "original_price": 850.00,
+        "price": 550.00,
+        "discount": 10,
+        "images": "/api/images/women-shoes/product40.png"
+    }
+]
